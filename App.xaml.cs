@@ -9,7 +9,7 @@
             var appWebServer = new AppWebServer();
             appWebServer.CreateWebServer();
 
-            MainPage = new AppShell();
+            MainPage = new MainPage();
         }
 
         protected override Window CreateWindow(IActivationState activationState)

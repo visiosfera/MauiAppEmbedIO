@@ -60,6 +60,7 @@
 	  <None Remove="wwwroot\images\file-downloading.json" />
 	  <None Remove="wwwroot\index.htm" />
 	  <None Remove="wwwroot\js\dotlottie-player.mjs" />
+	  <None Remove="wwwroot\js\lottie.js" />
 	  <None Remove="wwwroot\js\plugins.bundle.js" />
 	  <None Remove="wwwroot\js\prismjs.bundle.js" />
 	  <None Remove="wwwroot\js\scripts.bundle.js" />
@@ -69,6 +70,7 @@
 	  <EmbeddedResource Include="wwwroot\images\file-downloading.json" />
 	  <EmbeddedResource Include="wwwroot\index.htm" />
 	  <EmbeddedResource Include="wwwroot\js\dotlottie-player.mjs" />
+	  <EmbeddedResource Include="wwwroot\js\lottie.js" />
 	  <EmbeddedResource Include="wwwroot\js\plugins.bundle.js" />
 	  <EmbeddedResource Include="wwwroot\js\prismjs.bundle.js" />
 	  <EmbeddedResource Include="wwwroot\js\scripts.bundle.js" />
