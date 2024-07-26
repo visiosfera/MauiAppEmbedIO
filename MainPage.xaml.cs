@@ -43,6 +43,7 @@ namespace MauiAppEmbedIO
             }
         }
 
+
         private void CopyFileWithProgress(string sourceFile, string destinationFile)
         {
             const int bufferSize = 1024 * 1024; // 1MB buffer size
